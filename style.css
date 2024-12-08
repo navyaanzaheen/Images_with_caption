@@ -1,0 +1,71 @@
+body{
+       background-color: burlywood;
+}
+
+figure{
+    display: block;
+    margin:0;
+}
+
+figcaption{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top:3px;
+    padding:8px;
+    text-align: center;
+    
+    
+}
+
+
+
+/* .container:after{
+       clear:both;
+       display: table;
+
+
+} */
+
+
+
+
+/* figcaption::after{
+    clear:both;
+    display:table;
+} */
+
+
+
+#container{
+    background-color:burlywood;
+    
+   
+}
+
+
+.progress{
+    height:305px; 
+     
+}
+
+
+a{
+    color:red;
+    text-shadow:palegreen;
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+
+
+a:hover{
+       background-color:pink;
+       color:rgb(243, 8, 169);
+}
+
+
+
+
+
+
